@@ -27,34 +27,7 @@ target/pack/bin/word-count --output=PATH
 
 The output will be a Dictionary and the inverted index folder
 
-```
-
-
-
-
-
-```
-
-```
-
-
-
-
-
-```
-
-```
-
-
-
-
-
-
-```
-
-```
-
+``````
 ---
-
 This project is based on the [scio.g8](https://github.com/spotify/scio.g8).
-
+``````
